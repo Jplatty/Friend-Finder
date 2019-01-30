@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/Jplatty/Friend-Finder#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "nodemon": "^1.18.9",
+    "path": "^0.12.7",
     "request": "^2.88.0",
     "require": "^2.4.20"
   }
